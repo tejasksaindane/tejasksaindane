@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, I am 'm Tejas Saindane a Frontend Developer and student.</h1>
+<h1 align="center">Hi there👋, I am Tejas Saindane a Frontend Developer and student.</h1>
 <h3 align="center">An inquisitive guy who loves to learn.</h3>
 
 - 🔭 I’m currently working on **on Web Applications**
