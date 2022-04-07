@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tejas-saindane-7a37351b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tejas-saindane-7a37351b9" height="30" width="40" /></a>
-&nbsp<a href="https://fb.com/tejas.saindane.142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tejas.saindane.142" height="30" width="40" /></a>
+&nbsp<a href="https://fb.com/tejas.saindane.142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tejas.saindane.142" height="30" width="40" /></a>&nbsp
 <a href="https://instagram.com/_saindane.tejas_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_saindane.tejas_" height="30" width="40" /></a>
 </p>
 
