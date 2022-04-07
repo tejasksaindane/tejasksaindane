@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **tejassaindane99@gmail.com**
 
-- ⚡ Fun fact **I love travelling and exploring adventurous sites.**
+- ⚡ **I love travelling and exploring adventurous destinations.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
