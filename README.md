@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **MERN and Socket.io**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-28eda.web.app/](https://portfolio-28eda.web.app/)
-
 - 💬 Ask me about **React.js**
 
 - 📫 How to reach me **tejassaindane99@gmail.com**
