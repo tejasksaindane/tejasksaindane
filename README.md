@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, I am Tejas Saindane a Frontend Developer and student.</h1>
+<h1 align="center">Hi there👋, I am Tejas Saindane a Frontend Developer</h1>
 <h3 align="center">An inquisitive guy who loves to learn.</h3>
 
 - 🔭 I’m currently working on **on Web Applications**
@@ -7,9 +7,7 @@
 
 - 💬 Ask me about **React.js**
 
-- 📫 How to reach me **tejassaindane99@gmail.com**
-
-- ⚡ **I love travelling and exploring adventurous destinations.**
+- 📫 How to reach me **tejassaindane4483@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
