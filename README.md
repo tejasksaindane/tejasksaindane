@@ -1,6 +1,6 @@
 # Oracle Fusion Cloud Overview
 
-![Oracle Fusion Cloud](https://example.com/oracle-fusion-cloud-image.jpg) *(Replace with a relevant image URL)*
+![Oracle Fusion Cloud](https://example.com/oracle-fusion-cloud-image.jpg) 
 
 ## Introduction
 Oracle Fusion Cloud is a comprehensive suite of cloud applications that delivers powerful solutions for managing business processes across various domains, including finance, human resources, supply chain, and customer experience. 
@@ -15,11 +15,6 @@ Oracle Fusion Cloud is a comprehensive suite of cloud applications that delivers
 - **Enhanced Collaboration**: Foster better collaboration across teams with integrated tools.
 - **Cost Efficiency**: Reduce operational costs with cloud-based solutions.
 - **Security**: Robust security measures to protect your data and ensure compliance.
-
-## Getting Started
-1. **Sign Up**: [Create an account](https://www.oracle.com/middleware/technologies/cloud.html).
-2. **Explore Documentation**: Access comprehensive guides and resources.
-3. **Join the Community**: Connect with other users for support and best practices.
 
 ## Use Cases
 - **Financial Management**: Optimize financial processes and reporting.
