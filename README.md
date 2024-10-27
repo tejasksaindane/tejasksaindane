@@ -1,6 +1,6 @@
 # Oracle Fusion Cloud Overview
 
-![Oracle Fusion Cloud](https://example.com/oracle-fusion-cloud-image.jpg) 
+![Oracle Fusion Cloud](https://academy.badertech.com.sa/web/image/slide.channel/3/image_1920/Oracle%20Fusion%20Cloud%20Financials?unique=07aec0a) 
 
 ## Introduction
 Oracle Fusion Cloud is a comprehensive suite of cloud applications that delivers powerful solutions for managing business processes across various domains, including finance, human resources, supply chain, and customer experience. 
